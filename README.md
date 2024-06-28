@@ -1,0 +1,2 @@
+# Flaskipredict
+ collegeMangement
